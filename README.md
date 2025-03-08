@@ -8,6 +8,8 @@
 
 "n8n" is running on docker but ollama can't. Let's run "ollama" locally for "deepseek language model"
 
+![recipe1 - Screenshot](https://github.com/keramiozsoy/ai-recipe/blob/main/resources/images/recipe1.png)
+
 
 ## install
 
