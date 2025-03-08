@@ -16,7 +16,7 @@
 
 ### install docker 
 
-https://docs.docker.com/desktop/setup/install/mac-install )
+https://docs.docker.com/desktop/setup/install/mac-install 
 
 ### install ollama
 
@@ -54,9 +54,9 @@ docker compose up
 
 Additionally, after you see "Editor is now accessible via: http://localhost:5678/":
 
-1 Head to http://localhost:5678/home/credentials
-2 Click on "Local Ollama service"
-3 Change the base URL to "http://host.docker.internal:11434/"
+- 1 Head to http://localhost:5678/home/credentials
+- 2 Click on "Local Ollama service"
+- 3 Change the base URL to "http://host.docker.internal:11434/"
 
 
 ### Run 
@@ -68,4 +68,4 @@ Open chat and ask your questions.
 ### resources
 
 https://github.com/n8n-io/self-hosted-ai-starter-kit?tab=readme-ov-file#for-mac--apple-silicon-users
-
+https://www.youtube.com/watch?v=BwqDwepsS20
